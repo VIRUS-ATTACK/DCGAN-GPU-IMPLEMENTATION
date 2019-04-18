@@ -13,4 +13,4 @@ The discriminator takes an image as input, passes through convolution stacks and
 The model was trained for 150 epochs on Tesla M60 GPU and the weights were saved in chechpointWeights.pth file.
 No need to train the model, Just use the trained weights for inference.No need to download the dataset.The Q1.ipynb contains code that automatically download the dataset from my dropbox.
 
-This code is a part of my coursework for the course "Deep learning" at IIIT sricity.Refer to the problem statement and the report for getting clear insights. 
+This code is part of my coursework for the course "Deep learning" at IIIT sricity.Refer to the problemStatement&Report.pdf for getting clear insights. 

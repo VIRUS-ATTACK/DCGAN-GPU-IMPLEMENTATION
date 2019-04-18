@@ -1,7 +1,7 @@
 # DCGAN-GPU-IMPLEMENTATION
 DCGAN stands for deep convolutional Generative Adversarial Networks.
 
-The code was implemented using the following paper  
+The code was implemented based on the following paper  
   >https://arxiv.org/pdf/1511.06434.pdf
 
 
